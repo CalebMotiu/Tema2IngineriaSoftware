@@ -1,7 +1,7 @@
 import java.nio.file.Path;
 import java.util.Map;
 
-public class ExampleMain {
+public class Main {
     public static void main(String[] args) throws Exception {
         HtmlDocument doc = new HtmlDocument();
 
